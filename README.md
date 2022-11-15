@@ -2,6 +2,9 @@
 #### A deadly-driven coder
 ![A deadly-driven coder](https://mezbahuddin21.github.io/maruf/assets/img/banner.png)
 
+### Hi there 👋,  This is Mezbah Uddin Maruf
+#### A deadly-driven coder
+
 A passionate web developer with 2+years of competency in this field. I am improving my web developing skills learning new technologies .Always love & curious to engaged with competitive programing and open to new ideas & opportunities. 
 
 Skills:  JS / REACT JS / HTML / CSS/ Bootstrap/ jQuery
