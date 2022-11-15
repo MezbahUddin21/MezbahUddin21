@@ -1,7 +1,5 @@
-### Hi there 👋,  This is Mezbah Uddin Maruf
-#### A deadly-driven coder
-![A deadly-driven coder](https://mezbahuddin21.github.io/maruf/assets/img/banner.png)
 
+![A deadly-driven coder](https://mezbahuddin21.github.io/maruf/assets/img/banner.png)
 ### Hi there 👋,  This is Mezbah Uddin Maruf
 #### A deadly-driven coder
 
