@@ -78,6 +78,8 @@ struct Engineer {
   <img src="https://cp-logo.vercel.app/codechef/<real_handle>?logo=true" height="55" alt="CodeChef Rating"/>
 </a>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/cf-heatmap.svg" width="100%" alt="Codeforces Heatmap"/>
 <br/>
 <img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/codechef-heatmap.svg" width="100%" alt="CodeChef Heatmap"/>

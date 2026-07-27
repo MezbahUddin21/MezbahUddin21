@@ -77,28 +77,36 @@ def get_cf_daily_counts(handle, days=371):
 
 
 def get_cc_daily_counts(handle):
-    """Returns {YYYY-MM-DD: count} using the community codechef-api.vercel.app scraper.
-    CodeChef itself only exposes ~6 months of heatmap history."""
+    """Returns {YYYY-MM-DD: count} using the codechef-stats-api.vercel.app mirror.
+    CodeChef itself only exposes ~6 months of heatmap history, so that's the ceiling
+    here regardless of which API serves it.
+
+    Note: the older codechef-api.vercel.app scraper this script originally used has
+    gone down (its free Vercel deployment was disabled -- a hosting-side outage on
+    the maintainer's end, unrelated to your handle). This uses a different,
+    actively-maintained mirror with a documented /{handle}/heatmap endpoint instead."""
     if not handle:
         return {}
-    url = f"https://codechef-api.vercel.app/handle/{handle}"
+    url = f"https://codechef-stats-api-two.vercel.app/{handle}/heatmap"
     try:
         data = fetch_json(url)
     except (urllib.error.URLError, urllib.error.HTTPError, ValueError) as e:
         print(f"[warn] CodeChef fetch failed: {e}", file=sys.stderr)
         return {}
 
-    heat = data.get("heatMap") or data.get("heatMapData") or []
+    if data.get("status") != "success":
+        print(f"[warn] CodeChef API error: {data.get('message')}", file=sys.stderr)
+        return {}
+
+    contributions = (data.get("data") or {}).get("dailyContributions") or []
     counts = {}
-    for entry in heat:
-        date = entry.get("date") or entry.get("day")
-        value = entry.get("value")
-        if value is None:
-            value = entry.get("count", 0)
+    for entry in contributions:
+        date = entry.get("date")
+        count = entry.get("count", 0)
         if date:
-            counts[date] = int(value)
+            counts[date] = int(count)
     if not counts:
-        print("[warn] CodeChef response had no usable heatmap data", file=sys.stderr)
+        print("[warn] CodeChef response had no usable heatmap data (handle may not exist)", file=sys.stderr)
     return counts
 
 
@@ -112,7 +120,7 @@ def color_for(count, max_count):
 
 def build_svg(counts, title, weeks=53):
     cell, gap = 11, 3
-    left_pad, top_pad, right_pad, bottom_pad = 20, 26, 16, 14
+    left_pad, top_pad, right_pad, bottom_pad = 20, 32, 16, 14
 
     today = datetime.date.today()
     start = today - datetime.timedelta(days=weeks * 7 - 1)
@@ -172,7 +180,7 @@ def build_multi_year_svg(counts, title):
 
     cell, gap = 10, 3
     weeks = 53
-    left_pad, top_pad, right_pad, bottom_pad = 46, 30, 16, 10
+    left_pad, top_pad, right_pad, bottom_pad = 46, 36, 16, 10
     row_h = 7 * (cell + gap)
     row_gap = 16
 
