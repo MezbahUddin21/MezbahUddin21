@@ -1,191 +1,191 @@
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER BANNER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=210&section=header&text=Mezbah%20Uddin%20Maruf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4" width="100%"/>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://github.com/MezbahUddin21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Solving+algorithmic+challenges+%F0%9F%A7%A9;Crafting+modern+web+applications+%F0%9F%9A%80;Experimenting+with+AI%2FML+%F0%9F%A4%96;1300%2B+problems+across+CF+%7C+LC+%7C+CC+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
-</a>
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&width=560&height=55&lines=Mezbah+Uddin+Maruf" alt="name"/>
+</h1>
 
-<!-- ═══════════════════════ PROFILE BADGES ═══════════════════════ -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MezbahUddin21&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile views"/>
-  <a href="https://github.com/MezbahUddin21?tab=followers"><img src="https://img.shields.io/github/followers/MezbahUddin21?style=for-the-badge&logo=github&color=4A00E0&labelColor=1a1b27" alt="Followers"/></a>
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-00C9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20BD-2ea043?style=for-the-badge&labelColor=1a1b27" alt="Location"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=600&height=30&lines=Software+Engineer+%7C+Competitive+Programmer;Full-Stack+Dev+%7C+AI%2FML+Explorer;Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="roles"/>
+
+<br/>
+
+![views](https://komarev.com/ghpvc/?username=MezbahUddin21&style=flat-square&color=58a6ff&label=profile+views)
+[![followers](https://img.shields.io/github/followers/MezbahUddin21?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117)](https://github.com/MezbahUddin21?tab=followers)
+![open](https://img.shields.io/badge/status-open_to_work-3fb950?style=flat-square&labelColor=0d1117)
 
 </div>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-## 🧑‍🚀 About Me
+---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+```cpp
+// profile.hpp
+struct Engineer {
+    string name     = "Mezbah Uddin Maruf";
+    string location = "Dhaka, Bangladesh";
 
-```yaml
-name: Mezbah Uddin Maruf
-location: Dhaka, Bangladesh 🇧🇩
-role: Software Engineer
+    vector<string> stack = {
+        "C++", "Java", "Python", "TypeScript",
+        "React", "Next.js", "Node.js", "MongoDB"
+    };
 
-currently:
-  - ⚔️  Grinding Codeforces & LeetCode daily
-  - 🌐  Building full-stack apps with React & Node
-  - 🤖  Exploring AI/ML to build smarter solutions
+    map<string, string> cp = {
+        { "codeforces", "mumm00z"  },  // max 1319 · Pupil
+        { "leetcode",   "mum_m00z" },
+        { "codechef",   "mumm00z"  }
+    };
 
-fun_fact: "I debug faster with coffee ☕ and lo-fi 🎧"
+    vector<string> focus = {
+        "Grinding algorithmic problems daily",
+        "Building production-grade web applications",
+        "Experimenting with AI/ML pipelines"
+    };
+};
 ```
 
-<br clear="right"/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════ COMPETITIVE PROGRAMMING ═══════════════════════ -->
-## ⚔️ Competitive Programming Arena
+## ⚔️ Competitive Programming
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/mumm00z"><img src="https://img.shields.io/badge/Codeforces-mumm00z-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" alt="Codeforces"/></a>
-<a href="https://leetcode.com/u/mum_m00z/"><img src="https://img.shields.io/badge/LeetCode-mum__m00z-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/mumm00z"><img src="https://img.shields.io/badge/CodeChef-mumm00z-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef"/></a>
+[![CF](https://img.shields.io/badge/Codeforces-mumm00z-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=161b22)](https://codeforces.com/profile/mumm00z)
+[![LC](https://img.shields.io/badge/LeetCode-mum__m00z-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=161b22)](https://leetcode.com/u/mum_m00z/)
+[![CC](https://img.shields.io/badge/CodeChef-mumm00z-5B4638?style=flat-square&logo=codechef&logoColor=white&labelColor=161b22)](https://www.codechef.com/users/mumm00z)
 
-<br/><br/>
+<br/>
 
-<!-- Codeforces rating card -->
+<!-- Row 1: CF stats card + LC heatmap -->
 <a href="https://codeforces.com/profile/mumm00z">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mumm00z&theme=github_dark" alt="Codeforces Stats" height="190"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mumm00z&theme=github_dark&show_icons=true&border_color=30363d" height="195" alt="CF Stats"/>
 </a>
-
-<!-- LeetCode card with heatmap (contribution graph) -->
 <a href="https://leetcode.com/u/mum_m00z/">
-  <img src="https://leetcard.jacoblin.cool/mum_m00z?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="190"/>
+  <img src="https://leetcard.jacoblin.cool/mum_m00z?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" height="195" alt="LC Heatmap"/>
 </a>
 
 <br/><br/>
 
-<!-- Codeforces rating graph -->
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mumm00z" alt="CF Badge"/>
-<img src="https://cp-logo.vercel.app/codechef/mumm00z" alt="CodeChef Rating"/>
+<!-- Row 2: CF rating history + CF submission heatmap -->
+<a href="https://codeforces.com/profile/mumm00z">
+  <img src="https://codeforces-readme-stats.vercel.app/api/rating?username=mumm00z&theme=github_dark&border_color=30363d" height="195" alt="CF Rating Graph"/>
+</a>
+<a href="https://codeforces.com/profile/mumm00z">
+  <img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=mumm00z&theme=github_dark&border_color=30363d" height="195" alt="CF Heatmap"/>
+</a>
 
 <br/><br/>
 
-| Platform | Handle | Highlights |
-|:--------:|:------:|:-----------|
-| 🔵 **Codeforces** | [`mumm00z`](https://codeforces.com/profile/mumm00z) | Max Rating **1319** · Pupil |
-| 🟡 **LeetCode**   | [`mum_m00z`](https://leetcode.com/u/mum_m00z/) | Daily grinder · DSA focused |
-| 🟤 **CodeChef**   | [`mumm00z`](https://www.codechef.com/users/mumm00z) | Contest regular |
+<!-- CodeChef rating badge -->
+<a href="https://www.codechef.com/users/mumm00z">
+  <img src="https://cp-logo.vercel.app/codechef/mumm00z?logo=true" height="55" alt="CodeChef Rating"/>
+</a>
+
+<br/><br/>
+
+| Platform | Handle | Rating | Peak |
+|:---|:---|:---:|:---:|
+| ![CF](https://img.shields.io/badge/-CF-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) **Codeforces** | [`mumm00z`](https://codeforces.com/profile/mumm00z) | 1204 | **1319** · Pupil |
+| ![LC](https://img.shields.io/badge/-LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) **LeetCode** | [`mum_m00z`](https://leetcode.com/u/mum_m00z/) | — | Active |
+| ![CC](https://img.shields.io/badge/-CC-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | [`mumm00z`](https://www.codechef.com/users/mumm00z) | — | Active |
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+**Languages**<br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Web & Backend**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & Infra**<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI / ML**<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 </div>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## 🛠️ Tech Arsenal
+---
 
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript&theme=dark" alt="Languages"/>
-
-### 🌐 Web & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,bootstrap&theme=dark" alt="Web"/>
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,linux,postman&theme=dark" alt="Tools"/>
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda&theme=dark" alt="AI/ML"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=10" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=8" height="175" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=8" height="175" alt="Languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=MezbahUddin21&theme=tokyonight&hide_border=true&background=1a1b27&ring=A855F7&fire=00C9FF&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MezbahUddin21&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="Streak"/>
 
-<br/><br/>
+<br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MezbahUddin21&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A855F7&line=00C9FF&point=ffffff&area=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MezbahUddin21&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&radius=8" width="96%" alt="Activity Graph"/>
 
-<br/><br/>
+<br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MezbahUddin21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MezbahUddin21&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
 
 </div>
 
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-
-## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
 </picture>
-
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+---
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
 <a href="https://github.com/MezbahUddin21/pathfinder-visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MezbahUddin21&repo=pathfinder-visualizer&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="pathfinder-visualizer"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MezbahUddin21&repo=pathfinder-visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8" alt="pathfinder-visualizer"/>
 </a>
 <a href="https://github.com/MezbahUddin21/next-blog-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MezbahUddin21&repo=next-blog-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="next-blog-app"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MezbahUddin21&repo=next-blog-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8" alt="next-blog-app"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:mezbahuddinmaruf12345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/mezbahuddin21/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161b22)](https://mezbahuddin21.github.io/maruf/)
 
 <br/>
 
-*…and 50+ more experiments on my [repositories page](https://github.com/MezbahUddin21?tab=repositories)* 👀
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:mezbahuddinmaruf12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/mezbahuddin21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/></a>
-<a href="https://mezbahuddin21.github.io/maruf/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio"/></a>
-<a href="https://codeforces.com/profile/mumm00z"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" alt="Codeforces"/></a>
-<a href="https://leetcode.com/u/mum_m00z/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" alt="LeetCode"/></a>
-
-<br/><br/>
-
-<!-- Random dev quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4" width="100%"/>
 
 </div>
