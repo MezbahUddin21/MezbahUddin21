@@ -42,7 +42,8 @@ def fetch_json(url, timeout=30):
 
 
 def get_cf_daily_counts(handle, days=371):
-    """Returns {YYYY-MM-DD: count} of accepted submissions for the last `days` days."""
+    """Returns {YYYY-MM-DD: count} of accepted submissions for the last `days` days.
+    Pass days=None to fetch the account's entire history (no cutoff)."""
     url = f"https://codeforces.com/api/user.status?handle={handle}"
     try:
         data = fetch_json(url)
@@ -54,14 +55,16 @@ def get_cf_daily_counts(handle, days=371):
         print(f"[warn] Codeforces API error: {data.get('comment')}", file=sys.stderr)
         return {}
 
-    cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=days)
+    cutoff = None
+    if days is not None:
+        cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=days)
     counts = {}
     solved_today = set()  # avoid double-counting repeated AC on the same problem/day
     for sub in data["result"]:
         if sub.get("verdict") != "OK":
             continue
         ts = datetime.datetime.utcfromtimestamp(sub["creationTimeSeconds"])
-        if ts < cutoff:
+        if cutoff is not None and ts < cutoff:
             continue
         day = ts.date().isoformat()
         problem = sub.get("problem", {})
@@ -158,6 +161,82 @@ def build_svg(counts, title, weeks=53):
     return "\n".join(parts)
 
 
+def build_multi_year_svg(counts, title):
+    """One calendar row per calendar year that has any data, newest year on top.
+    This is how GitHub itself handles multi-year history (a year selector) --
+    since a README image can't be interactive, we stack the years instead."""
+    if not counts:
+        years = [datetime.date.today().year]
+    else:
+        years = sorted({int(d[:4]) for d in counts}, reverse=True)
+
+    cell, gap = 10, 3
+    weeks = 53
+    left_pad, top_pad, right_pad, bottom_pad = 46, 30, 16, 10
+    row_h = 7 * (cell + gap)
+    row_gap = 16
+
+    max_count = max(counts.values()) if counts else 0
+    total = sum(counts.values())
+
+    svg_w = left_pad + weeks * (cell + gap) + right_pad
+    svg_h = top_pad + len(years) * row_h + (len(years) - 1) * row_gap + bottom_pad
+
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_w} {svg_h}" '
+        f'font-family="Fira Code, ui-monospace, monospace">',
+        f'<rect width="100%" height="100%" fill="{BG}" rx="8"/>',
+        f'<text x="{left_pad}" y="16" fill="{TEXT}" font-size="12" font-weight="700">'
+        f'{title} &#183; {total} submissions total ({years[-1]}-{years[0]})</text>',
+    ]
+
+    y_cursor = top_pad
+    for year in years:
+        jan1 = datetime.date(year, 1, 1)
+        start = jan1 - datetime.timedelta(days=(jan1.weekday() + 1) % 7)  # back to Sunday
+        year_total = sum(v for k, v in counts.items() if k.startswith(str(year)))
+
+        parts.append(
+            f'<text x="0" y="{y_cursor + row_h / 2 + 3}" fill="{TEXT}" font-size="10" '
+            f'font-weight="700">{year}</text>'
+        )
+
+        month_labels_done = set()
+        d = start
+        for w in range(weeks):
+            month_key = (d.year, d.month)
+            if d.year == year and d.day <= 7 and month_key not in month_labels_done:
+                month_labels_done.add(month_key)
+                x = left_pad + w * (cell + gap)
+                parts.append(
+                    f'<text x="{x}" y="{y_cursor - 6}" fill="{TEXT}" font-size="7">'
+                    f'{d.strftime("%b")}</text>'
+                )
+            for day in range(7):
+                x = left_pad + w * (cell + gap)
+                y = y_cursor + day * (cell + gap)
+                if d.year == year:
+                    date_str = d.isoformat()
+                    c = counts.get(date_str, 0)
+                    fill = color_for(c, max_count)
+                    parts.append(
+                        f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" '
+                        f'fill="{fill}" stroke="{BORDER}" stroke-width="0.5">'
+                        f'<title>{date_str}: {c} submission{"s" if c != 1 else ""}</title></rect>'
+                    )
+                # days that spill into the previous/next year are left blank (no rect)
+                d += datetime.timedelta(days=1)
+
+        parts.append(
+            f'<text x="{svg_w - right_pad}" y="{y_cursor + row_h / 2 + 3}" '
+            f'fill="{TEXT}" font-size="8" text-anchor="end">{year_total}</text>'
+        )
+        y_cursor += row_h + row_gap
+
+    parts.append("</svg>")
+    return "\n".join(parts)
+
+
 def write_svg(path, svg):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
@@ -168,14 +247,19 @@ def write_svg(path, svg):
 def main():
     cf_handle = os.environ.get("CF_HANDLE", "").strip()
     cc_handle = os.environ.get("CC_HANDLE", "").strip()
+    all_years = os.environ.get("ALL_YEARS", "false").strip().lower() in ("1", "true", "yes")
 
     if not cf_handle and not cc_handle:
         print("[error] Set CF_HANDLE and/or CC_HANDLE env vars.", file=sys.stderr)
         sys.exit(1)
 
     if cf_handle:
-        cf_counts = get_cf_daily_counts(cf_handle)
-        svg = build_svg(cf_counts, f"Codeforces @{cf_handle}", weeks=53)
+        if all_years:
+            cf_counts = get_cf_daily_counts(cf_handle, days=None)
+            svg = build_multi_year_svg(cf_counts, f"Codeforces @{cf_handle}")
+        else:
+            cf_counts = get_cf_daily_counts(cf_handle, days=371)
+            svg = build_svg(cf_counts, f"Codeforces @{cf_handle}", weeks=53)
         write_svg(os.path.join(OUT_DIR, "cf-heatmap.svg"), svg)
 
     if cc_handle:
