@@ -40,3 +40,6 @@ The snake regenerates automatically every 12 hours, and all stats cards
 - **Typing lines**: edit the `lines=` param in the typing SVG URL.
 - **LinkedIn link**: update the URL in the *Connect* section if your handle differs.
 - **Featured projects**: swap the repo names in the `pin` card URLs.
+
+
+

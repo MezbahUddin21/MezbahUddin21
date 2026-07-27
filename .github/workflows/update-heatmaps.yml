@@ -1,0 +1,40 @@
+name: Update CP Heatmaps
+
+on:
+  schedule:
+    # Runs once a day at 00:15 UTC. Edit the cron expression to change frequency.
+    - cron: "15 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-heatmaps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate heatmaps
+        env:
+          CF_HANDLE: mumm00z  
+          CC_HANDLE: mumm00z 
+        run: python scripts/generate_heatmap.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh CP heatmaps"
+            git push
+          fi
