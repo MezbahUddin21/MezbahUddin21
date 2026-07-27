@@ -66,18 +66,16 @@ struct Engineer {
 <br/><br/>
 
 <!-- Row 2: CF rating history + CF submission heatmap -->
+<!-- Row 2: CF badge -->
 <a href="https://codeforces.com/profile/mumm00z">
-  <img src="https://codeforces-readme-stats.vercel.app/api/rating?username=mumm00z&theme=github_dark&border_color=30363d" height="195" alt="CF Rating Graph"/>
-</a>
-<a href="https://codeforces.com/profile/mumm00z">
-  <img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=mumm00z&theme=github_dark&border_color=30363d" height="195" alt="CF Heatmap"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mumm00z" height="55" alt="CF Badge"/>
 </a>
 
 <br/><br/>
 
 <!-- CodeChef rating badge -->
-<a href="https://www.codechef.com/users/mumm00z">
-  <img src="https://cp-logo.vercel.app/codechef/mumm00z?logo=true" height="55" alt="CodeChef Rating"/>
+<a href="https://www.codechef.com/users/<real_handle>">
+  <img src="https://cp-logo.vercel.app/codechef/<real_handle>?logo=true" height="55" alt="CodeChef Rating"/>
 </a>
 
 <br/><br/>
