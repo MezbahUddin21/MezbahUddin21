@@ -57,10 +57,10 @@ struct Engineer {
 
 <!-- Row 1: CF stats card + LC heatmap -->
 <a href="https://codeforces.com/profile/mumm00z">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mumm00z&theme=github_dark&show_icons=true&border_color=30363d" height="250" alt="CF Stats"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mumm00z&theme=github_dark&show_icons=true&border_color=30363d" height="300" alt="CF Stats"/>
 </a>
 <a href="https://leetcode.com/u/mum_m00z/">
-  <img src="https://leetcard.jacoblin.cool/mum_m00z?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" height="250" alt="LC Heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/mum_m00z?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" height="300" alt="LC Heatmap"/>
 </a>
 
 <br/><br/>
