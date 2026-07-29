@@ -4,14 +4,18 @@ Generates GitHub-style submission heatmaps (as SVG) for Codeforces and CodeChef.
 
 - Codeforces data comes from the official public API (codeforces.com/api/user.status),
   so it never breaks or rate-limits unexpectedly.
-- CodeChef has no official public API for submission history, so this uses the
-  community-maintained scraper at codechef-api.vercel.app. CodeChef only exposes
-  roughly the last 6 months of activity, so the CodeChef heatmap will show fewer
-  weeks than the Codeforces one -- that's a CodeChef limitation, not a bug here.
+- CodeChef has no official public API, so this uses the community-maintained
+  codechef-stats-api-two.vercel.app scraper. Unlike some older CodeChef scrapers,
+  it returns full submission history (years, not just ~6 months), so with
+  ALL_YEARS=true both heatmaps render the same way: one stacked calendar row
+  per year.
 
 Environment variables:
   CF_HANDLE   - your Codeforces handle (required for the CF heatmap)
   CC_HANDLE   - your CodeChef handle (optional; skipped if not set)
+  ALL_YEARS   - "true" for a stacked multi-year calendar (like GitHub's own
+                heatmap, one row per year); "false"/unset for a single strip
+                covering roughly the last year.
 
 Output:
   dist/cf-heatmap.svg
@@ -78,12 +82,13 @@ def get_cf_daily_counts(handle, days=371):
 
 def get_cc_daily_counts(handle):
     """Returns {YYYY-MM-DD: count} using the codechef-stats-api.vercel.app mirror.
-    CodeChef itself only exposes ~6 months of heatmap history, so that's the ceiling
-    here regardless of which API serves it.
+    This API returns the account's full daily submission history (its own docs
+    example spans 2024-2026), unlike some older CodeChef scrapers limited to
+    ~6 months -- so with ALL_YEARS=true you get a real multi-year heatmap.
 
-    Note: the older codechef-api.vercel.app scraper this script originally used has
-    gone down (its free Vercel deployment was disabled -- a hosting-side outage on
-    the maintainer's end, unrelated to your handle). This uses a different,
+    Note: the older codechef-api.vercel.app scraper this script originally used
+    went down (its free Vercel deployment was disabled -- a hosting-side outage
+    on the maintainer's end, unrelated to your handle). This uses a different,
     actively-maintained mirror with a documented /{handle}/heatmap endpoint instead."""
     if not handle:
         return {}
@@ -273,8 +278,10 @@ def main():
     if cc_handle:
         cc_counts = get_cc_daily_counts(cc_handle)
         if cc_counts:
-            # CodeChef only ever gives ~6 months, so use a shorter window
-            svg = build_svg(cc_counts, f"CodeChef @{cc_handle}", weeks=26)
+            if all_years:
+                svg = build_multi_year_svg(cc_counts, f"CodeChef @{cc_handle}")
+            else:
+                svg = build_svg(cc_counts, f"CodeChef @{cc_handle}", weeks=26)
             write_svg(os.path.join(OUT_DIR, "codechef-heatmap.svg"), svg)
         else:
             print("[skip] No CodeChef data available; leaving previous file untouched.")
