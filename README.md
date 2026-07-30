@@ -90,7 +90,7 @@ struct Engineer {
 |:---|:---|:---:|:---:|
 | ![CF](https://img.shields.io/badge/-CF-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) **Codeforces** | [`mumm00z`](https://codeforces.com/profile/mumm00z) | 1204 | **1319** · Pupil |
 | ![LC](https://img.shields.io/badge/-LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) **LeetCode** | [`mum_m00z`](https://leetcode.com/u/mum_m00z/) | 1,441 | **1,441** |
-| ![CC](https://img.shields.io/badge/-CC-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | [`mumm00z`](https://www.codechef.com/users/mumm00z) | 1552 | **1627** . "***" |
+| ![CC](https://img.shields.io/badge/-CC-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | [`mumm00z`](https://www.codechef.com/users/mumm00z) | 1552 | **1627** . ★★★ |
 
 </div>
 
