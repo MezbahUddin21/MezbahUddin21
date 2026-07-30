@@ -132,9 +132,8 @@ struct Engineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=8" height="175" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=8" height="175" alt="Languages"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=8" height="175" alt="Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=8" height="175" alt="Languages"/>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=MezbahUddin21&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="Streak"/>
