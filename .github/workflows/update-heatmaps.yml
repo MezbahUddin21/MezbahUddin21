@@ -1,4 +1,4 @@
-name: Update CP Heatmaps
+name: Update Profile Widgets
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-heatmaps:
+  update-widgets:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -23,20 +23,28 @@ jobs:
 
       - name: Generate heatmaps
         env:
-          CF_HANDLE: mumm00z        
-          CC_HANDLE: mumm00z 
+          CF_HANDLE: mumm00z          # <- your Codeforces handle
+          CC_HANDLE: your_codechef_id # <- your CodeChef handle (leave blank "" to skip)
           ALL_YEARS: "true"           # "true" = stacked calendar for every year of CF history
                                        # "false" = single row, last 53 weeks only
         run: python scripts/generate_heatmap.py
+
+      - name: Generate tech stack
+        env:
+          GH_USERNAME: MezbahUddin21
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # auto-provided by Actions, no setup needed
+          INCLUDE_FORKS: "false"                  # "true" to count languages from forked repos too
+          TOP_N_LANGUAGES: "10"
+        run: python scripts/generate_techstack.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/*.svg
+          git add dist/*.svg dist/tech-stack.md README.md
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: refresh CP heatmaps"
+            git commit -m "chore: refresh profile widgets (heatmaps + tech stack)"
             git push
           fi
