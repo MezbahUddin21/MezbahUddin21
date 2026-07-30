@@ -96,9 +96,10 @@ struct Engineer {
 
 ---
 <h2 align="center"> Tech Stack </h2>
-
+<div align="center">
 <!-- TECH-STACK:START -->
 <!-- TECH-STACK:END -->
+</div>
 ---
 <h2 align="center">  GitHub Analytics </h2>
 
