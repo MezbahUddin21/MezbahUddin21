@@ -220,12 +220,24 @@ def build_markdown(lang_totals, tools_found, top_n, repo_count):
         for t in sorted(tools_found)
     ) or "_No recognized frameworks/tools found yet._"
 
-    return (
-        f"**Languages** _(auto-detected across {repo_count} public repos)_<br/>\n"
-        f"{lang_badges}\n\n"
-        f"**Frameworks & Tools** _(auto-detected from dependency files)_<br/>\n"
-        f"{tool_badges}\n"
-    )
+    # Blank lines around every block are load-bearing: GitHub's markdown parser
+    # needs them to switch back out of "raw HTML" mode after the surrounding
+    # <div align="center">, and to actually parse the bold/image syntax below
+    # rather than printing it as literal text.
+    return "\n".join([
+        "#### 💻 Languages",
+        f"<sub><i>auto-detected across {repo_count} public repos</i></sub>",
+        "",
+        lang_badges,
+        "",
+        "<br/>",
+        "",
+        "#### 🧰 Frameworks & Tools",
+        "<sub><i>auto-detected from dependency files</i></sub>",
+        "",
+        tool_badges,
+        "",
+    ])
 
 
 def update_readme(section_md):
