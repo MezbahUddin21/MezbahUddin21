@@ -24,7 +24,7 @@ jobs:
       - name: Generate heatmaps
         env:
           CF_HANDLE: mumm00z          # <- your Codeforces handle
-          CC_HANDLE: your_codechef_id # <- your CodeChef handle (leave blank "" to skip)
+          CC_HANDLE: mumm00z # <- your CodeChef handle (leave blank "" to skip)
           ALL_YEARS: "true"           # "true" = stacked calendar for every year of CF history
                                        # "false" = single row, last 53 weeks only
         run: python scripts/generate_heatmap.py
