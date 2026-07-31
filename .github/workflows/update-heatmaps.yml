@@ -24,7 +24,7 @@ jobs:
       - name: Generate heatmaps
         env:
           CF_HANDLE: mumm00z          # <- your Codeforces handle
-          CC_HANDLE: mumm00z # <- your CodeChef handle (leave blank "" to skip)
+          CC_HANDLE: your_codechef_id # <- your CodeChef handle (leave blank "" to skip)
           ALL_YEARS: "true"           # "true" = stacked calendar for every year of CF history
                                        # "false" = single row, last 53 weeks only
         run: python scripts/generate_heatmap.py
@@ -41,13 +41,21 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: MezbahUddin21
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: dist/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}   # PAT with read:user + public_repo scopes -- see SETUP.md
           # Optional extra params this action supports -- uncomment/edit as wanted:
           # theme: gitdimmed
-          # column: "7"
+          # max-cols: "7"
+          # max-rows: "3"
           # no-frame: "true"
-          # no-bg: "true"
+          # no-background: "true"
+
+      - name: Ensure trophy SVG lands in dist/
+        run: |
+          mkdir -p dist
+          if [ -f trophy.svg ] && [ ! -f dist/trophy.svg ]; then
+            mv trophy.svg dist/trophy.svg
+          fi
 
       - name: Commit and push if changed
         run: |
