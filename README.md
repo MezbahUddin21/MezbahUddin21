@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 ```cpp
 // profile.hpp
@@ -43,7 +42,6 @@ struct Engineer {
 };
 ```
 
----
 <h2 align="center"> Competitive Programming </h2>
 
 
@@ -94,7 +92,6 @@ struct Engineer {
 
 </div>
 
----
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
     
@@ -107,7 +104,6 @@ struct Engineer {
 
 <!-- TECH-STACK:END -->
 </div>
----
 <h2 align="center">  GitHub Analytics </h2>
 
 <div align="center">
@@ -128,7 +124,6 @@ struct Engineer {
 
 </div>
 
----
 <h2 align="center"> Contribution Graph </h2>
 
 
@@ -140,7 +135,6 @@ struct Engineer {
 </picture>
 </div>
 
----
 <h2 align="center"> Projects </h2>
 
 <div align="center">
@@ -154,7 +148,6 @@ struct Engineer {
 
 </div>
 
----
 
 <div align="center">
 
