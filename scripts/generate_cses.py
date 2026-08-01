@@ -95,6 +95,16 @@ def get_user_grid(user_id):
         print(f"[error] Could not fetch CSES stats page: {e}", file=sys.stderr)
         return None, None
 
+    print(f"[debug] Fetched {len(page)} bytes from {url}")
+    lowered = page.lower()
+    if "login" in lowered and "solved tasks" not in lowered:
+        print("[warn] Page mentions 'login' and has no 'Solved tasks' text -- "
+              "likely got redirected to a login page instead of the public "
+              "stats page. This can happen if CSES blocks generic script "
+              "User-Agents.", file=sys.stderr)
+    print("[debug] First 600 chars of fetched page:", file=sys.stderr)
+    print(page[:600], file=sys.stderr)
+
     solved_match = re.search(r"Solved tasks:\s*(\d+)\s*/\s*(\d+)", page)
     solved_count = int(solved_match.group(1)) if solved_match else None
     total_count = int(solved_match.group(2)) if solved_match else None
@@ -122,6 +132,10 @@ def get_user_grid(user_id):
             snippet_match = re.search(r"<table.*?</tr>", page, re.DOTALL)
             if snippet_match:
                 print(snippet_match.group(0)[:1000], file=sys.stderr)
+    else:
+        print("[warn] Could not find 'Solved tasks: X/Y' text anywhere on the "
+              "fetched page -- this page is very likely not the stats content "
+              "we expected. See the [debug] snippet above.", file=sys.stderr)
 
     return statuses, (solved_count, total_count)
 
