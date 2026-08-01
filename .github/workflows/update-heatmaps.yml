@@ -29,11 +29,17 @@ jobs:
                                        # "false" = single row, last 53 weeks only
         run: python scripts/generate_heatmap.py
 
+      - name: Generate CSES heatmap
+        env:
+          CSES_USER_ID: "282736"
+        run: python scripts/generate_cses.py
+
       - name: Generate tech stack
         env:
           GH_USERNAME: MezbahUddin21
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # auto-provided by Actions, no setup needed
-          INCLUDE_FORKS: "false"                  # "true" to count languages from forked repos too
+          GH_TOKEN: ${{ secrets.TECHSTACK_TOKEN }}  # PAT with full "repo" scope -- see SETUP.md
+          INCLUDE_FORKS: "false"                    # "true" to count languages from forked repos too
+          INCLUDE_PRIVATE: "true"                   # "true" to also scan your private repos
           TOP_N_LANGUAGES: "10"
         run: python scripts/generate_techstack.py
 
@@ -59,7 +65,7 @@ jobs:
       - name: Relabel trophy text
         run: |
           if [ -f dist/trophy.svg ]; then
-            sed -i 's/God Repo Creator/Super Repo Creator/g' dist/trophy.svg
+            sed -i 's/God Repo Creator/Master Repo Creator/g' dist/trophy.svg
           fi
 
       - name: Commit and push if changed
