@@ -144,7 +144,7 @@ struct Engineer {
 </div>
 
 
-<h2 align="center"> Projects </h2>
+<!-- <h2 align="center"> Projects </h2>
 
 <div align="center">
 
@@ -170,4 +170,4 @@ struct Engineer {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4" width="100%"/>
 
-</div>
+</div> -->
