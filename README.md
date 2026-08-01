@@ -42,6 +42,38 @@ struct Engineer {
 };
 ```
 
+
+<h2 align="center">  GitHub Analytics </h2>
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=8" height="175" alt="Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=8" height="175" alt="Languages"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MezbahUddin21&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MezbahUddin21&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&radius=8" width="96%" alt="Activity Graph"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/trophy.svg" alt="Trophies"/>
+
+</div>
+
+<h2 align="center"> Contribution Graph </h2>
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake.svg"/>
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
 <h2 align="center"> Competitive Programming </h2>
 
 
@@ -110,36 +142,7 @@ struct Engineer {
 
 <!-- TECH-STACK:END -->
 </div>
-<h2 align="center">  GitHub Analytics </h2>
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=MezbahUddin21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=8" height="175" alt="Stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MezbahUddin21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=8" height="175" alt="Languages"/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MezbahUddin21&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MezbahUddin21&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&radius=8" width="96%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/trophy.svg" alt="Trophies"/>
-
-</div>
-
-<h2 align="center"> Contribution Graph </h2>
-
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake.svg"/>
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/output/github-snake-dark.svg"/>
-</picture>
-</div>
 
 <h2 align="center"> Projects </h2>
 
