@@ -126,7 +126,7 @@ struct Engineer {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MezbahUddin21&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
+<img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/trophy.svg" alt="Trophies"/>
 
 </div>
 
