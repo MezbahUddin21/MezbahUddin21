@@ -43,18 +43,23 @@ jobs:
           username: MezbahUddin21
           file: dist/trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}   # PAT with read:user + public_repo scopes -- see SETUP.md
-          # Optional extra params this action supports -- uncomment/edit as wanted:
-          # theme: gitdimmed
-          # max-cols: "7"
-          # max-rows: "3"
-          # no-frame: "true"
-          # no-background: "true"
+          theme: gitdimmed        # matches the theme already used elsewhere in the README
+          no-frame: "true"
+          no-background: "true"   # transparent, so it blends with the dark README background
+          margin-width: "15"
+          max-cols: "7"
 
       - name: Ensure trophy SVG lands in dist/
         run: |
           mkdir -p dist
           if [ -f trophy.svg ] && [ ! -f dist/trophy.svg ]; then
             mv trophy.svg dist/trophy.svg
+          fi
+
+      - name: Relabel trophy text
+        run: |
+          if [ -f dist/trophy.svg ]; then
+            sed -i 's/God Repo Creator/Super Repo Creator/g' dist/trophy.svg
           fi
 
       - name: Commit and push if changed
