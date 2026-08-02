@@ -29,11 +29,6 @@ jobs:
                                        # "false" = single row, last 53 weeks only
         run: python scripts/generate_heatmap.py
 
-      - name: Generate CSES heatmap
-        env:
-          CSES_USER_ID: "282736"
-        run: python scripts/generate_cses.py
-
       - name: Generate tech stack
         env:
           GH_USERNAME: MezbahUddin21
