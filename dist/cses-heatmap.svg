@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 384" font-family="Fira Code, ui-monospace, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 882 180" font-family="Fira Code, ui-monospace, monospace">
 <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
 <text x="16" y="16" fill="#c9d1d9" font-size="12" font-weight="700">CSES @282736 · 70/400 solved</text>
 <rect x="16" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Weird Algorithm: solved</title></rect>
@@ -21,384 +21,384 @@
 <rect x="305" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Raab Game I: untouched</title></rect>
 <rect x="322" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mex Grid Construction: untouched</title></rect>
 <rect x="339" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knight Moves Grid: untouched</title></rect>
-<rect x="16" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Coloring I: untouched</title></rect>
-<rect x="33" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Digit Queries: untouched</title></rect>
-<rect x="50" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Reorder: untouched</title></rect>
-<rect x="67" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Path Description: untouched</title></rect>
-<rect x="84" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Distinct Numbers: solved</title></rect>
-<rect x="101" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Apartments: solved</title></rect>
-<rect x="118" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Ferris Wheel: solved</title></rect>
-<rect x="135" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Concert Tickets: solved</title></rect>
-<rect x="152" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Restaurant Customers: solved</title></rect>
-<rect x="169" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Movie Festival: solved</title></rect>
-<rect x="186" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Two Values: solved</title></rect>
-<rect x="203" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Maximum Subarray Sum: solved</title></rect>
-<rect x="220" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Stick Lengths: solved</title></rect>
-<rect x="237" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Missing Coin Sum: solved</title></rect>
-<rect x="254" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers: solved</title></rect>
-<rect x="271" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers II: untouched</title></rect>
-<rect x="288" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Playlist: solved</title></rect>
-<rect x="305" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Towers: solved</title></rect>
-<rect x="322" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Traffic Lights: solved</title></rect>
-<rect x="339" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subarrays: untouched</title></rect>
-<rect x="16" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subsequences: untouched</title></rect>
-<rect x="33" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Josephus Problem I: solved</title></rect>
-<rect x="50" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Josephus Problem II: untouched</title></rect>
-<rect x="67" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nested Ranges Check: untouched</title></rect>
-<rect x="84" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nested Ranges Count: untouched</title></rect>
-<rect x="101" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Room Allocation: untouched</title></rect>
-<rect x="118" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Factory Machines: solved</title></rect>
-<rect x="135" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Tasks and Deadlines: solved</title></rect>
-<rect x="152" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reading Books: untouched</title></rect>
-<rect x="169" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Three Values: solved</title></rect>
-<rect x="186" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sum of Four Values: untouched</title></rect>
-<rect x="203" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Smaller Values: untouched</title></rect>
-<rect x="220" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Sums I: solved</title></rect>
-<rect x="237" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Sums II: solved</title></rect>
-<rect x="254" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Divisibility: solved</title></rect>
-<rect x="271" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subarrays II: untouched</title></rect>
-<rect x="288" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Array Division: solved</title></rect>
-<rect x="305" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Movie Festival II: untouched</title></rect>
-<rect x="322" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Subarray Sum II: untouched</title></rect>
-<rect x="339" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dice Combinations: solved</title></rect>
-<rect x="16" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Minimizing Coins: solved</title></rect>
-<rect x="33" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Coin Combinations I: solved</title></rect>
-<rect x="50" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Coin Combinations II: solved</title></rect>
-<rect x="67" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Removing Digits: solved</title></rect>
-<rect x="84" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Grid Paths I: solved</title></rect>
-<rect x="101" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Book Shop: solved</title></rect>
-<rect x="118" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Array Description: solved</title></rect>
-<rect x="135" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Towers: solved</title></rect>
-<rect x="152" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Edit Distance: solved</title></rect>
-<rect x="169" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Longest Common Subsequence: solved</title></rect>
-<rect x="186" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Rectangle Cutting: solved</title></rect>
-<rect x="203" y="81" width="14" height="14" rx="2" fill="#f85149" stroke="#30363d" stroke-width="0.5"><title>Minimal Grid Path: attempted</title></rect>
-<rect x="220" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Money Sums: solved</title></rect>
-<rect x="237" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Removal Game: untouched</title></rect>
-<rect x="254" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Two Sets II: solved</title></rect>
-<rect x="271" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mountain Range: untouched</title></rect>
-<rect x="288" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Increasing Subsequence: solved</title></rect>
-<rect x="305" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Projects: untouched</title></rect>
-<rect x="322" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Elevator Rides: untouched</title></rect>
-<rect x="339" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Tilings: untouched</title></rect>
-<rect x="16" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Numbers: untouched</title></rect>
-<rect x="33" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Increasing Subsequence II: solved</title></rect>
-<rect x="50" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Rooms: solved</title></rect>
-<rect x="67" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Labyrinth: solved</title></rect>
-<rect x="84" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Building Roads: solved</title></rect>
-<rect x="101" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Message Route: solved</title></rect>
-<rect x="118" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Building Teams: solved</title></rect>
-<rect x="135" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Round Trip: solved</title></rect>
-<rect x="152" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monsters: untouched</title></rect>
-<rect x="169" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Routes I: untouched</title></rect>
-<rect x="186" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Routes II: untouched</title></rect>
-<rect x="203" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>High Score: untouched</title></rect>
-<rect x="220" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Discount: untouched</title></rect>
-<rect x="237" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cycle Finding: untouched</title></rect>
-<rect x="254" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Routes: untouched</title></rect>
-<rect x="271" y="98" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Round Trip II: solved</title></rect>
-<rect x="288" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Course Schedule: untouched</title></rect>
-<rect x="305" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Longest Flight Route: untouched</title></rect>
-<rect x="322" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Game Routes: untouched</title></rect>
-<rect x="339" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Investigation: untouched</title></rect>
-<rect x="16" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Queries I: untouched</title></rect>
-<rect x="33" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Queries II: untouched</title></rect>
-<rect x="50" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Cycles: untouched</title></rect>
-<rect x="67" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Road Reparation: untouched</title></rect>
-<rect x="84" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Road Construction: untouched</title></rect>
-<rect x="101" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Routes Check: untouched</title></rect>
-<rect x="118" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets and Kingdoms: untouched</title></rect>
-<rect x="135" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Giant Pizza: untouched</title></rect>
-<rect x="152" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Collector: untouched</title></rect>
-<rect x="169" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mail Delivery: untouched</title></rect>
-<rect x="186" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>De Bruijn Sequence: untouched</title></rect>
-<rect x="203" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Teleporters Path: untouched</title></rect>
-<rect x="220" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hamiltonian Flights: untouched</title></rect>
-<rect x="237" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knight&#x27;s Tour: untouched</title></rect>
-<rect x="254" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Download Speed: untouched</title></rect>
-<rect x="271" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Police Chase: untouched</title></rect>
-<rect x="288" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>School Dance: untouched</title></rect>
-<rect x="305" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Routes: untouched</title></rect>
-<rect x="322" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Static Range Sum Queries: solved</title></rect>
-<rect x="339" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Static Range Minimum Queries: solved</title></rect>
-<rect x="16" y="132" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dynamic Range Sum Queries: solved</title></rect>
-<rect x="33" y="132" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dynamic Range Minimum Queries: solved</title></rect>
-<rect x="50" y="132" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Range Xor Queries: solved</title></rect>
-<rect x="67" y="132" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Range Update Queries: solved</title></rect>
-<rect x="84" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forest Queries: untouched</title></rect>
-<rect x="101" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hotel Queries: untouched</title></rect>
-<rect x="118" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>List Removals: untouched</title></rect>
-<rect x="135" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Salary Queries: untouched</title></rect>
-<rect x="152" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prefix Sum Queries: untouched</title></rect>
-<rect x="169" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pizzeria Queries: untouched</title></rect>
-<rect x="186" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Visible Buildings Queries: untouched</title></rect>
-<rect x="203" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Interval Queries: untouched</title></rect>
-<rect x="220" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Queries: untouched</title></rect>
-<rect x="237" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Queries II: untouched</title></rect>
-<rect x="254" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Queries: untouched</title></rect>
-<rect x="271" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Queries II: untouched</title></rect>
-<rect x="288" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Increasing Array Queries: untouched</title></rect>
-<rect x="305" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Movie Festival Queries: untouched</title></rect>
-<rect x="322" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forest Queries II: untouched</title></rect>
-<rect x="339" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Updates and Sums: untouched</title></rect>
-<rect x="16" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polynomial Queries: untouched</title></rect>
-<rect x="33" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Queries and Copies: untouched</title></rect>
-<rect x="50" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Missing Coin Sum Queries: untouched</title></rect>
-<rect x="67" y="149" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subordinates: solved</title></rect>
-<rect x="84" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Matching: untouched</title></rect>
-<rect x="101" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Diameter: untouched</title></rect>
-<rect x="118" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Distances I: untouched</title></rect>
-<rect x="135" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Distances II: untouched</title></rect>
-<rect x="152" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Company Queries I: untouched</title></rect>
-<rect x="169" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Company Queries II: untouched</title></rect>
-<rect x="186" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distance Queries: untouched</title></rect>
-<rect x="203" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Paths: untouched</title></rect>
-<rect x="220" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subtree Queries: untouched</title></rect>
-<rect x="237" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Path Queries: untouched</title></rect>
-<rect x="254" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Path Queries II: untouched</title></rect>
-<rect x="271" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Colors: untouched</title></rect>
-<rect x="288" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding a Centroid: untouched</title></rect>
-<rect x="305" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed-Length Paths I: untouched</title></rect>
-<rect x="322" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed-Length Paths II: untouched</title></rect>
-<rect x="339" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Josephus Queries: untouched</title></rect>
-<rect x="16" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Exponentiation: untouched</title></rect>
-<rect x="33" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Exponentiation II: untouched</title></rect>
-<rect x="50" y="166" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Divisors: solved</title></rect>
-<rect x="67" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Common Divisors: untouched</title></rect>
-<rect x="84" y="166" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Divisors: solved</title></rect>
-<rect x="101" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Divisor Analysis: untouched</title></rect>
-<rect x="118" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prime Multiples: untouched</title></rect>
-<rect x="135" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Coprime Pairs: untouched</title></rect>
-<rect x="152" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Next Prime: untouched</title></rect>
-<rect x="169" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Binomial Coefficients: untouched</title></rect>
-<rect x="186" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Creating Strings II: untouched</title></rect>
-<rect x="203" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distributing Apples: untouched</title></rect>
-<rect x="220" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Christmas Party: untouched</title></rect>
-<rect x="237" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Order: untouched</title></rect>
-<rect x="254" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Rounds: untouched</title></rect>
-<rect x="271" y="166" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Bracket Sequences I: solved</title></rect>
-<rect x="288" y="166" width="14" height="14" rx="2" fill="#f85149" stroke="#30363d" stroke-width="0.5"><title>Bracket Sequences II: attempted</title></rect>
-<rect x="305" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Necklaces: untouched</title></rect>
-<rect x="322" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Grids: untouched</title></rect>
-<rect x="339" y="166" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fibonacci Numbers: untouched</title></rect>
-<rect x="16" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Throwing Dice: untouched</title></rect>
-<rect x="33" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Paths I: untouched</title></rect>
-<rect x="50" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Paths II: untouched</title></rect>
-<rect x="67" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>System of Linear Equations: untouched</title></rect>
-<rect x="84" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sum of Four Squares: untouched</title></rect>
-<rect x="101" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Triangle Number Sums: untouched</title></rect>
-<rect x="118" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Dice Probability: untouched</title></rect>
-<rect x="135" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Moving Robots: untouched</title></rect>
-<rect x="152" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Candy Lottery: untouched</title></rect>
-<rect x="169" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inversion Probability: untouched</title></rect>
-<rect x="186" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Game: untouched</title></rect>
-<rect x="203" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nim Game I: untouched</title></rect>
-<rect x="220" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nim Game II: untouched</title></rect>
-<rect x="237" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stair Game: untouched</title></rect>
-<rect x="254" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grundy&#x27;s Game: untouched</title></rect>
-<rect x="271" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Another Game: untouched</title></rect>
-<rect x="288" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Word Combinations: untouched</title></rect>
-<rect x="305" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Matching: untouched</title></rect>
-<rect x="322" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Borders: untouched</title></rect>
-<rect x="339" y="183" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Periods: untouched</title></rect>
-<rect x="16" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimal Rotation: untouched</title></rect>
-<rect x="33" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Longest Palindrome: untouched</title></rect>
-<rect x="50" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Palindromes: untouched</title></rect>
-<rect x="67" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Required Substring: untouched</title></rect>
-<rect x="84" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Palindrome Queries: untouched</title></rect>
-<rect x="101" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Patterns: untouched</title></rect>
-<rect x="118" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Patterns: untouched</title></rect>
-<rect x="135" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pattern Positions: untouched</title></rect>
-<rect x="152" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Substrings: untouched</title></rect>
-<rect x="169" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Subsequences: untouched</title></rect>
-<rect x="186" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Repeating Substring: untouched</title></rect>
-<rect x="203" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Functions: untouched</title></rect>
-<rect x="220" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inverse Suffix Array: untouched</title></rect>
-<rect x="237" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Transform: untouched</title></rect>
-<rect x="254" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Order I: untouched</title></rect>
-<rect x="271" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Order II: untouched</title></rect>
-<rect x="288" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Distribution: untouched</title></rect>
-<rect x="305" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Point Location Test: untouched</title></rect>
-<rect x="322" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segment Intersection: untouched</title></rect>
-<rect x="339" y="200" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polygon Area: untouched</title></rect>
-<rect x="16" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Point in Polygon: untouched</title></rect>
-<rect x="33" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polygon Lattice Points: untouched</title></rect>
-<rect x="50" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimum Euclidean Distance: untouched</title></rect>
-<rect x="67" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Convex Hull: untouched</title></rect>
-<rect x="84" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Manhattan Distances: untouched</title></rect>
-<rect x="101" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Manhattan Distances: untouched</title></rect>
-<rect x="118" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Intersection Points: untouched</title></rect>
-<rect x="135" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segments Trace I: untouched</title></rect>
-<rect x="152" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segments Trace II: untouched</title></rect>
-<rect x="169" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Lines and Queries I: untouched</title></rect>
-<rect x="186" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Lines and Queries II: untouched</title></rect>
-<rect x="203" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Area of Rectangles: untouched</title></rect>
-<rect x="220" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Robot Path: untouched</title></rect>
-<rect x="237" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Meet in the Middle: untouched</title></rect>
-<rect x="254" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hamming Distance: untouched</title></rect>
-<rect x="271" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Corner Subgrid Check: untouched</title></rect>
-<rect x="288" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Corner Subgrid Count: untouched</title></rect>
-<rect x="305" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reachable Nodes: untouched</title></rect>
-<rect x="322" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reachability Queries: untouched</title></rect>
-<rect x="339" y="217" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cut and Paste: untouched</title></rect>
-<rect x="16" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Reversals: untouched</title></rect>
-<rect x="33" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reversals and Sums: untouched</title></rect>
-<rect x="50" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Necessary Roads: untouched</title></rect>
-<rect x="67" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Necessary Cities: untouched</title></rect>
-<rect x="84" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Eulerian Subgraphs: untouched</title></rect>
-<rect x="101" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monster Game I: untouched</title></rect>
-<rect x="118" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monster Game II: untouched</title></rect>
-<rect x="135" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Squares: untouched</title></rect>
-<rect x="152" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Houses and Schools: untouched</title></rect>
-<rect x="169" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knuth Division: untouched</title></rect>
-<rect x="186" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Apples and Bananas: untouched</title></rect>
-<rect x="203" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>One Bit Positions: untouched</title></rect>
-<rect x="220" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Signal Processing: untouched</title></rect>
-<rect x="237" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>New Roads Queries: untouched</title></rect>
-<rect x="254" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Dynamic Connectivity: untouched</title></rect>
-<rect x="271" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Parcel Delivery: untouched</title></rect>
-<rect x="288" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Task Assignment: untouched</title></rect>
-<rect x="305" y="234" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Routes II: untouched</title></rect>
-<rect x="322" y="234" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Sum: solved</title></rect>
-<rect x="339" y="234" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Minimum: solved</title></rect>
-<rect x="16" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Xor: solved</title></rect>
-<rect x="33" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Or: untouched</title></rect>
-<rect x="50" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Distinct Values: solved</title></rect>
-<rect x="67" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Mode: solved</title></rect>
-<rect x="84" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Mex: solved</title></rect>
-<rect x="101" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Median: solved</title></rect>
-<rect x="118" y="251" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Cost: solved</title></rect>
-<rect x="135" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Inversions: untouched</title></rect>
-<rect x="152" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Advertisement: untouched</title></rect>
-<rect x="169" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hidden Integer: untouched</title></rect>
-<rect x="186" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hidden Permutation: untouched</title></rect>
-<rect x="203" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K-th Highest Score: untouched</title></rect>
-<rect x="220" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permuted Binary Strings: untouched</title></rect>
-<rect x="237" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Colored Chairs: untouched</title></rect>
-<rect x="254" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inversion Sorting: untouched</title></rect>
-<rect x="271" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Bits: untouched</title></rect>
-<rect x="288" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Xor Subarray: untouched</title></rect>
-<rect x="305" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Xor Subset: untouched</title></rect>
-<rect x="322" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Number of Subset Xors: untouched</title></rect>
-<rect x="339" y="251" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Xors: untouched</title></rect>
-<rect x="16" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Subarray Xors: untouched</title></rect>
-<rect x="33" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Peak: untouched</title></rect>
-<rect x="50" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Diagonal: untouched</title></rect>
-<rect x="67" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Row: untouched</title></rect>
-<rect x="84" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>SOS Bit Problem: untouched</title></rect>
-<rect x="101" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>And Subset Count: untouched</title></rect>
-<rect x="118" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inverse Inversions: untouched</title></rect>
-<rect x="135" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monotone Subsequences: untouched</title></rect>
-<rect x="152" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Third Permutation: untouched</title></rect>
-<rect x="169" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Prime Sums: untouched</title></rect>
-<rect x="186" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Chess Tournament: untouched</title></rect>
-<rect x="203" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Sums Grid: untouched</title></rect>
-<rect x="220" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filling Trominos: untouched</title></rect>
-<rect x="237" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Path Construction: untouched</title></rect>
-<rect x="254" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Shops: untouched</title></rect>
-<rect x="271" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prüfer Code: untouched</title></rect>
-<rect x="288" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Traversals: untouched</title></rect>
-<rect x="305" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Course Schedule II: untouched</title></rect>
-<rect x="322" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Acyclic Graph Edges: untouched</title></rect>
-<rect x="339" y="268" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Strongly Connected Edges: untouched</title></rect>
-<rect x="16" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Even Outdegree Edges: untouched</title></rect>
-<rect x="33" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Girth: untouched</title></rect>
-<rect x="50" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed Length Walk Queries: untouched</title></rect>
-<rect x="67" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Transfer Speeds Sum: untouched</title></rect>
-<rect x="84" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Check: untouched</title></rect>
-<rect x="101" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Set Check: untouched</title></rect>
-<rect x="118" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Cost: untouched</title></rect>
-<rect x="135" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Network Breakdown: untouched</title></rect>
-<rect x="152" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Coin Collecting I: untouched</title></rect>
-<rect x="169" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Coin Collecting II: untouched</title></rect>
-<rect x="186" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Isomorphism I: untouched</title></rect>
-<rect x="203" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Isomorphism II: untouched</title></rect>
-<rect x="220" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Route Requests: untouched</title></rect>
-<rect x="237" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Critical Cities: untouched</title></rect>
-<rect x="254" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Visiting Cities: untouched</title></rect>
-<rect x="271" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Coloring: untouched</title></rect>
-<rect x="288" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bus Companies: untouched</title></rect>
-<rect x="305" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Split into Two Paths: untouched</title></rect>
-<rect x="322" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Network Renovation: untouched</title></rect>
-<rect x="339" y="285" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forbidden Cities: untouched</title></rect>
-<rect x="16" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Creating Offices: untouched</title></rect>
-<rect x="33" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>New Flight Routes: untouched</title></rect>
-<rect x="50" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filled Subgrid Count I: untouched</title></rect>
-<rect x="67" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filled Subgrid Count II: untouched</title></rect>
-<rect x="84" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Letter Subgrid Count I: untouched</title></rect>
-<rect x="101" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Letter Subgrid Count II: untouched</title></rect>
-<rect x="118" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Border Subgrid Count I: untouched</title></rect>
-<rect x="135" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Border Subgrid Count II: untouched</title></rect>
-<rect x="152" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Raab Game II: untouched</title></rect>
-<rect x="169" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Empty String: untouched</title></rect>
-<rect x="186" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Inversions: untouched</title></rect>
-<rect x="203" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Bishops: untouched</title></rect>
-<rect x="220" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Sequences: untouched</title></rect>
-<rect x="237" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Paths II: untouched</title></rect>
-<rect x="254" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Permutations: untouched</title></rect>
-<rect x="271" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Completion: untouched</title></rect>
-<rect x="288" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Reorders: untouched</title></rect>
-<rect x="305" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tournament Graph Distribution: untouched</title></rect>
-<rect x="322" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers Distribution: untouched</title></rect>
-<rect x="339" y="302" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Functional Graph Distribution: untouched</title></rect>
-<rect x="16" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Subsequence: untouched</title></rect>
-<rect x="33" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Sum: untouched</title></rect>
-<rect x="50" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Splits: untouched</title></rect>
-<rect x="67" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Swap Game: untouched</title></rect>
-<rect x="84" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Beautiful Permutation II: untouched</title></rect>
-<rect x="101" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Multiplication Table: untouched</title></rect>
-<rect x="118" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bubble Sort Rounds I: untouched</title></rect>
-<rect x="135" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bubble Sort Rounds II: untouched</title></rect>
-<rect x="152" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Campsites I: untouched</title></rect>
-<rect x="169" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Campsites II: untouched</title></rect>
-<rect x="186" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Advertisement: untouched</title></rect>
-<rect x="203" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Special Substrings: untouched</title></rect>
-<rect x="220" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting LCM Arrays: untouched</title></rect>
-<rect x="237" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Square Subsets: untouched</title></rect>
-<rect x="254" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Constraints: untouched</title></rect>
-<rect x="271" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Water Containers Moves: untouched</title></rect>
-<rect x="288" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Water Containers Queries: untouched</title></rect>
-<rect x="305" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stack Weights: untouched</title></rect>
-<rect x="322" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Average Subarrays: untouched</title></rect>
-<rect x="339" y="319" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subsets with Fixed Average: untouched</title></rect>
-<rect x="16" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Two Array Average: untouched</title></rect>
-<rect x="33" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pyramid Array: untouched</title></rect>
-<rect x="50" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Subsequence: untouched</title></rect>
-<rect x="67" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bit Inversions: untouched</title></rect>
-<rect x="84" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Writing Numbers: untouched</title></rect>
-<rect x="101" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Letter Pair Move Game: untouched</title></rect>
-<rect x="118" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Building I: untouched</title></rect>
-<rect x="135" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sorting Methods: untouched</title></rect>
-<rect x="152" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cyclic Array: untouched</title></rect>
-<rect x="169" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>List of Sums: untouched</title></rect>
-<rect x="186" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bouncing Ball Steps: untouched</title></rect>
-<rect x="203" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bouncing Ball Cycle: untouched</title></rect>
-<rect x="220" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knight Moves Queries: untouched</title></rect>
-<rect x="237" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Sums I: untouched</title></rect>
-<rect x="254" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Sums II: untouched</title></rect>
-<rect x="271" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Increasing Array II: untouched</title></rect>
-<rect x="288" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Food Division: untouched</title></rect>
-<rect x="305" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Swap Round Sorting: untouched</title></rect>
-<rect x="322" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Binary Subsequences: untouched</title></rect>
-<rect x="339" y="336" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>School Excursion: untouched</title></rect>
-<rect x="16" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Grid: untouched</title></rect>
-<rect x="33" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Coloring II: untouched</title></rect>
-<rect x="50" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Programmers and Artists: untouched</title></rect>
-<rect x="67" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Removing Digits II: untouched</title></rect>
-<rect x="84" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Arrangement: untouched</title></rect>
-<rect x="101" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Replace with Difference: untouched</title></rect>
-<rect x="118" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Puzzle I: untouched</title></rect>
-<rect x="135" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Puzzle II: untouched</title></rect>
-<rect x="152" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bit Substrings: untouched</title></rect>
-<rect x="169" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reversal Sorting: untouched</title></rect>
-<rect x="186" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Book Shop II: untouched</title></rect>
-<rect x="203" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>GCD Subsets: untouched</title></rect>
-<rect x="220" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimum Cost Pairs: untouched</title></rect>
-<rect x="237" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Same Sum Subsets: untouched</title></rect>
-<rect x="254" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mex Grid Queries: untouched</title></rect>
-<rect x="271" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Building II: untouched</title></rect>
-<rect x="288" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Divisions: untouched</title></rect>
-<rect x="305" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Difference: untouched</title></rect>
-<rect x="322" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coding Company: untouched</title></rect>
-<rect x="339" y="353" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Two Stacks Sorting: untouched</title></rect>
+<rect x="356" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Coloring I: untouched</title></rect>
+<rect x="373" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Digit Queries: untouched</title></rect>
+<rect x="390" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Reorder: untouched</title></rect>
+<rect x="407" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Path Description: untouched</title></rect>
+<rect x="424" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Distinct Numbers: solved</title></rect>
+<rect x="441" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Apartments: solved</title></rect>
+<rect x="458" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Ferris Wheel: solved</title></rect>
+<rect x="475" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Concert Tickets: solved</title></rect>
+<rect x="492" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Restaurant Customers: solved</title></rect>
+<rect x="509" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Movie Festival: solved</title></rect>
+<rect x="526" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Two Values: solved</title></rect>
+<rect x="543" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Maximum Subarray Sum: solved</title></rect>
+<rect x="560" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Stick Lengths: solved</title></rect>
+<rect x="577" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Missing Coin Sum: solved</title></rect>
+<rect x="594" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers: solved</title></rect>
+<rect x="611" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers II: untouched</title></rect>
+<rect x="628" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Playlist: solved</title></rect>
+<rect x="645" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Towers: solved</title></rect>
+<rect x="662" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Traffic Lights: solved</title></rect>
+<rect x="679" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subarrays: untouched</title></rect>
+<rect x="696" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subsequences: untouched</title></rect>
+<rect x="713" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Josephus Problem I: solved</title></rect>
+<rect x="730" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Josephus Problem II: untouched</title></rect>
+<rect x="747" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nested Ranges Check: untouched</title></rect>
+<rect x="764" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nested Ranges Count: untouched</title></rect>
+<rect x="781" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Room Allocation: untouched</title></rect>
+<rect x="798" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Factory Machines: solved</title></rect>
+<rect x="815" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Tasks and Deadlines: solved</title></rect>
+<rect x="832" y="30" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reading Books: untouched</title></rect>
+<rect x="849" y="30" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Three Values: solved</title></rect>
+<rect x="16" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sum of Four Values: untouched</title></rect>
+<rect x="33" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Smaller Values: untouched</title></rect>
+<rect x="50" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Sums I: solved</title></rect>
+<rect x="67" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Sums II: solved</title></rect>
+<rect x="84" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subarray Divisibility: solved</title></rect>
+<rect x="101" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Subarrays II: untouched</title></rect>
+<rect x="118" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Array Division: solved</title></rect>
+<rect x="135" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Movie Festival II: untouched</title></rect>
+<rect x="152" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Subarray Sum II: untouched</title></rect>
+<rect x="169" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dice Combinations: solved</title></rect>
+<rect x="186" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Minimizing Coins: solved</title></rect>
+<rect x="203" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Coin Combinations I: solved</title></rect>
+<rect x="220" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Coin Combinations II: solved</title></rect>
+<rect x="237" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Removing Digits: solved</title></rect>
+<rect x="254" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Grid Paths I: solved</title></rect>
+<rect x="271" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Book Shop: solved</title></rect>
+<rect x="288" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Array Description: solved</title></rect>
+<rect x="305" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Towers: solved</title></rect>
+<rect x="322" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Edit Distance: solved</title></rect>
+<rect x="339" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Longest Common Subsequence: solved</title></rect>
+<rect x="356" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Rectangle Cutting: solved</title></rect>
+<rect x="373" y="47" width="14" height="14" rx="2" fill="#f85149" stroke="#30363d" stroke-width="0.5"><title>Minimal Grid Path: attempted</title></rect>
+<rect x="390" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Money Sums: solved</title></rect>
+<rect x="407" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Removal Game: untouched</title></rect>
+<rect x="424" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Two Sets II: solved</title></rect>
+<rect x="441" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mountain Range: untouched</title></rect>
+<rect x="458" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Increasing Subsequence: solved</title></rect>
+<rect x="475" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Projects: untouched</title></rect>
+<rect x="492" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Elevator Rides: untouched</title></rect>
+<rect x="509" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Tilings: untouched</title></rect>
+<rect x="526" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Numbers: untouched</title></rect>
+<rect x="543" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Increasing Subsequence II: solved</title></rect>
+<rect x="560" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Rooms: solved</title></rect>
+<rect x="577" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Labyrinth: solved</title></rect>
+<rect x="594" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Building Roads: solved</title></rect>
+<rect x="611" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Message Route: solved</title></rect>
+<rect x="628" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Building Teams: solved</title></rect>
+<rect x="645" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Round Trip: solved</title></rect>
+<rect x="662" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monsters: untouched</title></rect>
+<rect x="679" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Routes I: untouched</title></rect>
+<rect x="696" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Routes II: untouched</title></rect>
+<rect x="713" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>High Score: untouched</title></rect>
+<rect x="730" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Discount: untouched</title></rect>
+<rect x="747" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cycle Finding: untouched</title></rect>
+<rect x="764" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Routes: untouched</title></rect>
+<rect x="781" y="47" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Round Trip II: solved</title></rect>
+<rect x="798" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Course Schedule: untouched</title></rect>
+<rect x="815" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Longest Flight Route: untouched</title></rect>
+<rect x="832" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Game Routes: untouched</title></rect>
+<rect x="849" y="47" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Investigation: untouched</title></rect>
+<rect x="16" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Queries I: untouched</title></rect>
+<rect x="33" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Queries II: untouched</title></rect>
+<rect x="50" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets Cycles: untouched</title></rect>
+<rect x="67" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Road Reparation: untouched</title></rect>
+<rect x="84" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Road Construction: untouched</title></rect>
+<rect x="101" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Routes Check: untouched</title></rect>
+<rect x="118" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Planets and Kingdoms: untouched</title></rect>
+<rect x="135" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Giant Pizza: untouched</title></rect>
+<rect x="152" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Collector: untouched</title></rect>
+<rect x="169" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mail Delivery: untouched</title></rect>
+<rect x="186" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>De Bruijn Sequence: untouched</title></rect>
+<rect x="203" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Teleporters Path: untouched</title></rect>
+<rect x="220" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hamiltonian Flights: untouched</title></rect>
+<rect x="237" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knight&#x27;s Tour: untouched</title></rect>
+<rect x="254" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Download Speed: untouched</title></rect>
+<rect x="271" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Police Chase: untouched</title></rect>
+<rect x="288" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>School Dance: untouched</title></rect>
+<rect x="305" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Routes: untouched</title></rect>
+<rect x="322" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Static Range Sum Queries: solved</title></rect>
+<rect x="339" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Static Range Minimum Queries: solved</title></rect>
+<rect x="356" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dynamic Range Sum Queries: solved</title></rect>
+<rect x="373" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Dynamic Range Minimum Queries: solved</title></rect>
+<rect x="390" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Range Xor Queries: solved</title></rect>
+<rect x="407" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Range Update Queries: solved</title></rect>
+<rect x="424" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forest Queries: untouched</title></rect>
+<rect x="441" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hotel Queries: untouched</title></rect>
+<rect x="458" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>List Removals: untouched</title></rect>
+<rect x="475" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Salary Queries: untouched</title></rect>
+<rect x="492" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prefix Sum Queries: untouched</title></rect>
+<rect x="509" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pizzeria Queries: untouched</title></rect>
+<rect x="526" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Visible Buildings Queries: untouched</title></rect>
+<rect x="543" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Interval Queries: untouched</title></rect>
+<rect x="560" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Queries: untouched</title></rect>
+<rect x="577" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Queries II: untouched</title></rect>
+<rect x="594" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Queries: untouched</title></rect>
+<rect x="611" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Queries II: untouched</title></rect>
+<rect x="628" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Increasing Array Queries: untouched</title></rect>
+<rect x="645" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Movie Festival Queries: untouched</title></rect>
+<rect x="662" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forest Queries II: untouched</title></rect>
+<rect x="679" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Updates and Sums: untouched</title></rect>
+<rect x="696" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polynomial Queries: untouched</title></rect>
+<rect x="713" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Range Queries and Copies: untouched</title></rect>
+<rect x="730" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Missing Coin Sum Queries: untouched</title></rect>
+<rect x="747" y="64" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Subordinates: solved</title></rect>
+<rect x="764" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Matching: untouched</title></rect>
+<rect x="781" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Diameter: untouched</title></rect>
+<rect x="798" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Distances I: untouched</title></rect>
+<rect x="815" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Distances II: untouched</title></rect>
+<rect x="832" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Company Queries I: untouched</title></rect>
+<rect x="849" y="64" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Company Queries II: untouched</title></rect>
+<rect x="16" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distance Queries: untouched</title></rect>
+<rect x="33" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Paths: untouched</title></rect>
+<rect x="50" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subtree Queries: untouched</title></rect>
+<rect x="67" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Path Queries: untouched</title></rect>
+<rect x="84" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Path Queries II: untouched</title></rect>
+<rect x="101" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Colors: untouched</title></rect>
+<rect x="118" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding a Centroid: untouched</title></rect>
+<rect x="135" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed-Length Paths I: untouched</title></rect>
+<rect x="152" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed-Length Paths II: untouched</title></rect>
+<rect x="169" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Josephus Queries: untouched</title></rect>
+<rect x="186" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Exponentiation: untouched</title></rect>
+<rect x="203" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Exponentiation II: untouched</title></rect>
+<rect x="220" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Counting Divisors: solved</title></rect>
+<rect x="237" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Common Divisors: untouched</title></rect>
+<rect x="254" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sum of Divisors: solved</title></rect>
+<rect x="271" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Divisor Analysis: untouched</title></rect>
+<rect x="288" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prime Multiples: untouched</title></rect>
+<rect x="305" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Coprime Pairs: untouched</title></rect>
+<rect x="322" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Next Prime: untouched</title></rect>
+<rect x="339" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Binomial Coefficients: untouched</title></rect>
+<rect x="356" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Creating Strings II: untouched</title></rect>
+<rect x="373" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distributing Apples: untouched</title></rect>
+<rect x="390" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Christmas Party: untouched</title></rect>
+<rect x="407" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Order: untouched</title></rect>
+<rect x="424" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Rounds: untouched</title></rect>
+<rect x="441" y="81" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Bracket Sequences I: solved</title></rect>
+<rect x="458" y="81" width="14" height="14" rx="2" fill="#f85149" stroke="#30363d" stroke-width="0.5"><title>Bracket Sequences II: attempted</title></rect>
+<rect x="475" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Necklaces: untouched</title></rect>
+<rect x="492" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Grids: untouched</title></rect>
+<rect x="509" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fibonacci Numbers: untouched</title></rect>
+<rect x="526" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Throwing Dice: untouched</title></rect>
+<rect x="543" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Paths I: untouched</title></rect>
+<rect x="560" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Paths II: untouched</title></rect>
+<rect x="577" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>System of Linear Equations: untouched</title></rect>
+<rect x="594" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sum of Four Squares: untouched</title></rect>
+<rect x="611" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Triangle Number Sums: untouched</title></rect>
+<rect x="628" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Dice Probability: untouched</title></rect>
+<rect x="645" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Moving Robots: untouched</title></rect>
+<rect x="662" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Candy Lottery: untouched</title></rect>
+<rect x="679" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inversion Probability: untouched</title></rect>
+<rect x="696" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Game: untouched</title></rect>
+<rect x="713" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nim Game I: untouched</title></rect>
+<rect x="730" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nim Game II: untouched</title></rect>
+<rect x="747" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stair Game: untouched</title></rect>
+<rect x="764" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grundy&#x27;s Game: untouched</title></rect>
+<rect x="781" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Another Game: untouched</title></rect>
+<rect x="798" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Word Combinations: untouched</title></rect>
+<rect x="815" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Matching: untouched</title></rect>
+<rect x="832" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Borders: untouched</title></rect>
+<rect x="849" y="81" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Periods: untouched</title></rect>
+<rect x="16" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimal Rotation: untouched</title></rect>
+<rect x="33" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Longest Palindrome: untouched</title></rect>
+<rect x="50" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Palindromes: untouched</title></rect>
+<rect x="67" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Required Substring: untouched</title></rect>
+<rect x="84" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Palindrome Queries: untouched</title></rect>
+<rect x="101" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Finding Patterns: untouched</title></rect>
+<rect x="118" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Patterns: untouched</title></rect>
+<rect x="135" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pattern Positions: untouched</title></rect>
+<rect x="152" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Substrings: untouched</title></rect>
+<rect x="169" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Subsequences: untouched</title></rect>
+<rect x="186" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Repeating Substring: untouched</title></rect>
+<rect x="203" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Functions: untouched</title></rect>
+<rect x="220" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inverse Suffix Array: untouched</title></rect>
+<rect x="237" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>String Transform: untouched</title></rect>
+<rect x="254" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Order I: untouched</title></rect>
+<rect x="271" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Order II: untouched</title></rect>
+<rect x="288" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Distribution: untouched</title></rect>
+<rect x="305" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Point Location Test: untouched</title></rect>
+<rect x="322" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segment Intersection: untouched</title></rect>
+<rect x="339" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polygon Area: untouched</title></rect>
+<rect x="356" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Point in Polygon: untouched</title></rect>
+<rect x="373" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Polygon Lattice Points: untouched</title></rect>
+<rect x="390" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimum Euclidean Distance: untouched</title></rect>
+<rect x="407" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Convex Hull: untouched</title></rect>
+<rect x="424" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Manhattan Distances: untouched</title></rect>
+<rect x="441" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Manhattan Distances: untouched</title></rect>
+<rect x="458" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Intersection Points: untouched</title></rect>
+<rect x="475" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segments Trace I: untouched</title></rect>
+<rect x="492" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Line Segments Trace II: untouched</title></rect>
+<rect x="509" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Lines and Queries I: untouched</title></rect>
+<rect x="526" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Lines and Queries II: untouched</title></rect>
+<rect x="543" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Area of Rectangles: untouched</title></rect>
+<rect x="560" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Robot Path: untouched</title></rect>
+<rect x="577" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Meet in the Middle: untouched</title></rect>
+<rect x="594" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hamming Distance: untouched</title></rect>
+<rect x="611" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Corner Subgrid Check: untouched</title></rect>
+<rect x="628" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Corner Subgrid Count: untouched</title></rect>
+<rect x="645" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reachable Nodes: untouched</title></rect>
+<rect x="662" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reachability Queries: untouched</title></rect>
+<rect x="679" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cut and Paste: untouched</title></rect>
+<rect x="696" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Substring Reversals: untouched</title></rect>
+<rect x="713" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reversals and Sums: untouched</title></rect>
+<rect x="730" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Necessary Roads: untouched</title></rect>
+<rect x="747" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Necessary Cities: untouched</title></rect>
+<rect x="764" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Eulerian Subgraphs: untouched</title></rect>
+<rect x="781" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monster Game I: untouched</title></rect>
+<rect x="798" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monster Game II: untouched</title></rect>
+<rect x="815" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Squares: untouched</title></rect>
+<rect x="832" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Houses and Schools: untouched</title></rect>
+<rect x="849" y="98" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knuth Division: untouched</title></rect>
+<rect x="16" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Apples and Bananas: untouched</title></rect>
+<rect x="33" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>One Bit Positions: untouched</title></rect>
+<rect x="50" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Signal Processing: untouched</title></rect>
+<rect x="67" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>New Roads Queries: untouched</title></rect>
+<rect x="84" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Dynamic Connectivity: untouched</title></rect>
+<rect x="101" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Parcel Delivery: untouched</title></rect>
+<rect x="118" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Task Assignment: untouched</title></rect>
+<rect x="135" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Routes II: untouched</title></rect>
+<rect x="152" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Sum: solved</title></rect>
+<rect x="169" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Minimum: solved</title></rect>
+<rect x="186" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Xor: solved</title></rect>
+<rect x="203" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Or: untouched</title></rect>
+<rect x="220" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Distinct Values: solved</title></rect>
+<rect x="237" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Mode: solved</title></rect>
+<rect x="254" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Mex: solved</title></rect>
+<rect x="271" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Median: solved</title></rect>
+<rect x="288" y="115" width="14" height="14" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Cost: solved</title></rect>
+<rect x="305" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Inversions: untouched</title></rect>
+<rect x="322" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sliding Window Advertisement: untouched</title></rect>
+<rect x="339" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hidden Integer: untouched</title></rect>
+<rect x="356" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Hidden Permutation: untouched</title></rect>
+<rect x="373" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K-th Highest Score: untouched</title></rect>
+<rect x="390" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permuted Binary Strings: untouched</title></rect>
+<rect x="407" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Colored Chairs: untouched</title></rect>
+<rect x="424" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inversion Sorting: untouched</title></rect>
+<rect x="441" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Bits: untouched</title></rect>
+<rect x="458" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Xor Subarray: untouched</title></rect>
+<rect x="475" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Xor Subset: untouched</title></rect>
+<rect x="492" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Number of Subset Xors: untouched</title></rect>
+<rect x="509" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Xors: untouched</title></rect>
+<rect x="526" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Subarray Xors: untouched</title></rect>
+<rect x="543" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Peak: untouched</title></rect>
+<rect x="560" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Diagonal: untouched</title></rect>
+<rect x="577" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Xor Pyramid Row: untouched</title></rect>
+<rect x="594" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>SOS Bit Problem: untouched</title></rect>
+<rect x="611" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>And Subset Count: untouched</title></rect>
+<rect x="628" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Inverse Inversions: untouched</title></rect>
+<rect x="645" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Monotone Subsequences: untouched</title></rect>
+<rect x="662" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Third Permutation: untouched</title></rect>
+<rect x="679" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Prime Sums: untouched</title></rect>
+<rect x="696" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Chess Tournament: untouched</title></rect>
+<rect x="713" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Sums Grid: untouched</title></rect>
+<rect x="730" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filling Trominos: untouched</title></rect>
+<rect x="747" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Path Construction: untouched</title></rect>
+<rect x="764" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Shops: untouched</title></rect>
+<rect x="781" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Prüfer Code: untouched</title></rect>
+<rect x="798" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Traversals: untouched</title></rect>
+<rect x="815" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Course Schedule II: untouched</title></rect>
+<rect x="832" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Acyclic Graph Edges: untouched</title></rect>
+<rect x="849" y="115" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Strongly Connected Edges: untouched</title></rect>
+<rect x="16" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Even Outdegree Edges: untouched</title></rect>
+<rect x="33" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Girth: untouched</title></rect>
+<rect x="50" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Fixed Length Walk Queries: untouched</title></rect>
+<rect x="67" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Transfer Speeds Sum: untouched</title></rect>
+<rect x="84" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Check: untouched</title></rect>
+<rect x="101" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Set Check: untouched</title></rect>
+<rect x="118" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>MST Edge Cost: untouched</title></rect>
+<rect x="135" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Network Breakdown: untouched</title></rect>
+<rect x="152" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Coin Collecting I: untouched</title></rect>
+<rect x="169" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Coin Collecting II: untouched</title></rect>
+<rect x="186" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Isomorphism I: untouched</title></rect>
+<rect x="203" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tree Isomorphism II: untouched</title></rect>
+<rect x="220" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Flight Route Requests: untouched</title></rect>
+<rect x="237" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Critical Cities: untouched</title></rect>
+<rect x="254" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Visiting Cities: untouched</title></rect>
+<rect x="271" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Graph Coloring: untouched</title></rect>
+<rect x="288" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bus Companies: untouched</title></rect>
+<rect x="305" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Split into Two Paths: untouched</title></rect>
+<rect x="322" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Network Renovation: untouched</title></rect>
+<rect x="339" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Forbidden Cities: untouched</title></rect>
+<rect x="356" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Creating Offices: untouched</title></rect>
+<rect x="373" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>New Flight Routes: untouched</title></rect>
+<rect x="390" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filled Subgrid Count I: untouched</title></rect>
+<rect x="407" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Filled Subgrid Count II: untouched</title></rect>
+<rect x="424" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Letter Subgrid Count I: untouched</title></rect>
+<rect x="441" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>All Letter Subgrid Count II: untouched</title></rect>
+<rect x="458" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Border Subgrid Count I: untouched</title></rect>
+<rect x="475" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Border Subgrid Count II: untouched</title></rect>
+<rect x="492" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Raab Game II: untouched</title></rect>
+<rect x="509" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Empty String: untouched</title></rect>
+<rect x="526" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Inversions: untouched</title></rect>
+<rect x="543" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Bishops: untouched</title></rect>
+<rect x="560" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Sequences: untouched</title></rect>
+<rect x="577" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Paths II: untouched</title></rect>
+<rect x="594" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Permutations: untouched</title></rect>
+<rect x="611" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Completion: untouched</title></rect>
+<rect x="628" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting Reorders: untouched</title></rect>
+<rect x="645" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Tournament Graph Distribution: untouched</title></rect>
+<rect x="662" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Collecting Numbers Distribution: untouched</title></rect>
+<rect x="679" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Functional Graph Distribution: untouched</title></rect>
+<rect x="696" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Shortest Subsequence: untouched</title></rect>
+<rect x="713" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Sum: untouched</title></rect>
+<rect x="730" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Distinct Values Splits: untouched</title></rect>
+<rect x="747" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Swap Game: untouched</title></rect>
+<rect x="764" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Beautiful Permutation II: untouched</title></rect>
+<rect x="781" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Multiplication Table: untouched</title></rect>
+<rect x="798" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bubble Sort Rounds I: untouched</title></rect>
+<rect x="815" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bubble Sort Rounds II: untouched</title></rect>
+<rect x="832" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Campsites I: untouched</title></rect>
+<rect x="849" y="132" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Nearest Campsites II: untouched</title></rect>
+<rect x="16" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Advertisement: untouched</title></rect>
+<rect x="33" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Special Substrings: untouched</title></rect>
+<rect x="50" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Counting LCM Arrays: untouched</title></rect>
+<rect x="67" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Square Subsets: untouched</title></rect>
+<rect x="84" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subarray Sum Constraints: untouched</title></rect>
+<rect x="101" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Water Containers Moves: untouched</title></rect>
+<rect x="118" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Water Containers Queries: untouched</title></rect>
+<rect x="135" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stack Weights: untouched</title></rect>
+<rect x="152" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Average Subarrays: untouched</title></rect>
+<rect x="169" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Subsets with Fixed Average: untouched</title></rect>
+<rect x="186" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Two Array Average: untouched</title></rect>
+<rect x="203" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Pyramid Array: untouched</title></rect>
+<rect x="220" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Permutation Subsequence: untouched</title></rect>
+<rect x="237" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bit Inversions: untouched</title></rect>
+<rect x="254" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Writing Numbers: untouched</title></rect>
+<rect x="271" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Letter Pair Move Game: untouched</title></rect>
+<rect x="288" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Building I: untouched</title></rect>
+<rect x="305" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Sorting Methods: untouched</title></rect>
+<rect x="322" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Cyclic Array: untouched</title></rect>
+<rect x="339" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>List of Sums: untouched</title></rect>
+<rect x="356" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bouncing Ball Steps: untouched</title></rect>
+<rect x="373" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bouncing Ball Cycle: untouched</title></rect>
+<rect x="390" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Knight Moves Queries: untouched</title></rect>
+<rect x="407" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Sums I: untouched</title></rect>
+<rect x="424" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>K Subset Sums II: untouched</title></rect>
+<rect x="441" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Increasing Array II: untouched</title></rect>
+<rect x="458" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Food Division: untouched</title></rect>
+<rect x="475" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Swap Round Sorting: untouched</title></rect>
+<rect x="492" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Binary Subsequences: untouched</title></rect>
+<rect x="509" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>School Excursion: untouched</title></rect>
+<rect x="526" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Grid: untouched</title></rect>
+<rect x="543" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Coloring II: untouched</title></rect>
+<rect x="560" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Programmers and Artists: untouched</title></rect>
+<rect x="577" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Removing Digits II: untouched</title></rect>
+<rect x="594" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coin Arrangement: untouched</title></rect>
+<rect x="611" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Replace with Difference: untouched</title></rect>
+<rect x="628" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Puzzle I: untouched</title></rect>
+<rect x="645" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Grid Puzzle II: untouched</title></rect>
+<rect x="662" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Bit Substrings: untouched</title></rect>
+<rect x="679" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Reversal Sorting: untouched</title></rect>
+<rect x="696" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Book Shop II: untouched</title></rect>
+<rect x="713" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>GCD Subsets: untouched</title></rect>
+<rect x="730" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Minimum Cost Pairs: untouched</title></rect>
+<rect x="747" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Same Sum Subsets: untouched</title></rect>
+<rect x="764" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Mex Grid Queries: untouched</title></rect>
+<rect x="781" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Maximum Building II: untouched</title></rect>
+<rect x="798" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Divisions: untouched</title></rect>
+<rect x="815" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Stick Difference: untouched</title></rect>
+<rect x="832" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Coding Company: untouched</title></rect>
+<rect x="849" y="149" width="14" height="14" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>Two Stacks Sorting: untouched</title></rect>
 </svg>
