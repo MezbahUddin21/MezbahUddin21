@@ -77,7 +77,7 @@ def parse_page(page_html):
     return cells, solved_count, total_count
 
 
-def build_svg(cells, solved_count, total_count, user_id, cols=20):
+def build_svg(cells, solved_count, total_count, user_id, cols=50):
     cell, gap = 14, 3
     left_pad, top_pad, right_pad, bottom_pad = 16, 30, 16, 14
 
