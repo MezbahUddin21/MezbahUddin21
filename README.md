@@ -113,6 +113,8 @@ struct Engineer {
 <img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/cf-heatmap.svg" width="100%" alt="Codeforces Heatmap"/>
 <br/>
 <img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/codechef-heatmap.svg" width="100%" alt="CodeChef Heatmap"/>
+<br/>
+<img src="https://raw.githubusercontent.com/MezbahUddin21/MezbahUddin21/main/dist/cses-heatmap.svg" width="100%" alt="CSES Progress"/>
 
 <br/><br/>
 
